@@ -775,7 +775,7 @@ section,
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(../img/header-bg-texture.png);
+  background: url(../img/header-bg-tile-512.png);
 }
 
 .hero .container {
